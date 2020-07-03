@@ -1,4 +1,3 @@
-# PyBank
 PyBank is a Simple Banking System written in Python 3 with basic banking like depositing & withdrawing money, loan service e.t.c <br/><br/>
 
 # Setup PyBank
